@@ -9,7 +9,7 @@ title:            jae's Memorylane
 tagline:          'A Jekyll theme'
 description:      '程式學習筆記'
 url:              
-baseurl:          /
+baseurl:          
 
 author:
   name:           'jae chuang'

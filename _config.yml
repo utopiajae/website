@@ -1,0 +1,24 @@
+# Dependencies
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            jae's Memorylane
+tagline:          'A Jekyll theme'
+description:      '程式學習筆記'
+url:              
+baseurl:          /
+
+author:
+  name:           'jae chuang'
+  url:            
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           

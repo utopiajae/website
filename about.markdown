@@ -36,7 +36,7 @@ permalink: /about/
 - 品牌塑造與行銷
 - 產品設計指導
 
-## Avio 亞比歐股份有限公司
+## Avio Co., Ltd. 亞比歐股份有限公司
 > **Marketing Executive 2017/12 至 2018/7**
 
 - 銷售簡報製作
